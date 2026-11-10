@@ -314,6 +314,11 @@
         "name": "Odder",
         "url": "https://www.bibliotek.odder.dk"
     },
+    "odense": {
+        "branchId": "746100",
+        "name": "Odense",
+        "url": "https://odensebib.dk"
+    },
     "odsherred": {
         "branchId": "730600",
         "name": "Odsherred",
